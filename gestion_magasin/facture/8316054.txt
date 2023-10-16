@@ -1,0 +1,14 @@
+
+			Magasin Hamza Barka 
+	Tel:  +221 70 847 03 94 Adresse : Liberte 5 Dakar 
+=========================================================
+Nom du Client : Barka
+Tel du Client : 90008284
+Numero Facture : 8316054		Date : 08082023
+=========================================================
+Nom Produit				Quantite		Prix
+=========================================================
+        
+	LG			2		240000.0
+	Dell			5		750000.0
+	Iphone 14 pro			1		900000.0
